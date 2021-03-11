@@ -1,0 +1,17 @@
+body {
+    background-color: lightseagreen;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li button {
+    font-size: 10px;
+    margin-left: 15px;
+    color: gray;
+}
+
+#my-list {
+    background-color: lightblue;
+}
